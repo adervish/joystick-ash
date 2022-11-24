@@ -1,0 +1,26 @@
+{
+    "name": "joystick-ash",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "tree/a83a046a514b9fe7bdf6ff6d04ad6186012c4bae/.vscode/settings.json",
+        "tree/a83a046a514b9fe7bdf6ff6d04ad6186012c4bae/README.md",
+        "tree/a83a046a514b9fe7bdf6ff6d04ad6186012c4bae/main.blocks",
+        "tree/a83a046a514b9fe7bdf6ff6d04ad6186012c4bae/main.ts",
+        "tree/a83a046a514b9fe7bdf6ff6d04ad6186012c4bae/pxt.json",
+        "tree/a83a046a514b9fe7bdf6ff6d04ad6186012c4bae/test.ts",
+        "tree/a83a046a514b9fe7bdf6ff6d04ad6186012c4bae/tsconfig.json"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "5.0.12",
+        "targetId": "microbit"
+    },
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
